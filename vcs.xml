@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/PiratKrabe/HW1.2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/PiratKrabe/HW1.2-menu-.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Linkin\IdeaProjects" />
